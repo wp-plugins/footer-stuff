@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Footer Stuff
-Plugin URI: http://www.roytanck.com
+Plugin URI: http://www.roytanck.com/2008/12/22/footer-stuff-is-ready-make-your-life-easier/
 Description: Maintain things like stats code from within WordPress without having to alter your theme's footer file.
 Version: 1.0
 Author: Roy Tanck
