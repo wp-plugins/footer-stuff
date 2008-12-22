@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Footer Stuff ===
 Contributors: weefselkweekje
 Donate link: http://www.roytanck.com/about-my-themes/donations/
 Tags: footer, code snippets, manage, analytics, statistics
