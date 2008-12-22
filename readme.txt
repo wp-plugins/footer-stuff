@@ -26,9 +26,9 @@ To install Footer Stuff, follow the steps below.
 
 For one thing, you wont's have to worry about these snippets when you switch themes. PHP files are also easy to mess up, so editing them can be tricky.
 
-= Why would I want to use this instead of a dedicated plugin for mey stats system? =
+= Why would I want to use this instead of a dedicated plugin for my stats system? =
 
-If you're using multiple stats systems, Footer Stuff lets you add the code in one place. And it lets add other things as well. If you know your way around HTML this is probably more convenient for you.
+If you're using multiple stats systems, Footer Stuff lets you add the code in one place. And it lets add other things as well. If you know your way around HTML this is probably more convenient for you. And there simply isn't a dedicated plugin for every system out there.
 
 == Screenshots ==
 
